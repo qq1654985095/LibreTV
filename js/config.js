@@ -31,6 +31,14 @@ const API_SITES = {
 
     api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
     name: '电影天堂资源',
+	adult: true
+  },
+    ruyi: {
+
+    api: 'https://cj.rycjapi.com/api.php/provide/vod',
+    name: '如意资源',
+	adult: true
+
   },
 
   
