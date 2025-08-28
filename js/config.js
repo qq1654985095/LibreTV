@@ -24,20 +24,20 @@ const SITE_CONFIG = {
 const API_SITES = {
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
-        adult: true
+        name: '空内容测试源', 
     },
-       dyttzy: {
-
+    dyttzy: {
     api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
     name: '电影天堂资源',
-	adult: true
-  },
+	},
     ruyi: {
-
     api: 'https://cj.rycjapi.com/api.php/provide/vod',
     name: '如意资源',
-	adult: true
+	},
+	
+	lzi: {
+    api: 'https://cj.lziapi.com/api.php/provide/vod/',
+    name: '量子资源站'
 
   },
 
